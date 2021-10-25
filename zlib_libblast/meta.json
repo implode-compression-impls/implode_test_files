@@ -1,0 +1,10 @@
+{
+	"rawExt": "txt",
+	"processedExt": "pk",
+	"parameters":{
+		"*":{
+			"dictionarySize": 1024,
+			"mode": "binary"
+		}
+	}
+}
